@@ -1,5 +1,5 @@
 .post-content {
-  width: 1280px;
+  width: 1024px;
   display: block;
   margin: 10px auto 10px auto;
 }
@@ -11,7 +11,7 @@
 }
 .featured-image img {
   align: middle;
-  margin: 5px auto 25px;
+  margin: 5px auto 25px auto;
   display: block;
   max-width: 600px;
 }
@@ -19,7 +19,7 @@
   .post-content {
     width: 60vw;
     display: block;
-    margin: 10px auto 10px;
+    margin: 10px auto 10px auto;
   }
   .featured-image img {
     align: middle;
@@ -32,7 +32,7 @@
   .post-content {
     width: 95vw;
     display: block;
-    margin: 10px auto 10px;
+    margin: 10px auto 10px auto;
   }
   .featured-image img {
     align: middle;
