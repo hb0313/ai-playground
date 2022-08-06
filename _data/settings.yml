@@ -16,10 +16,10 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
+- {icon: 'twitter', link:    'https://twitter.com/'}
+- {icon: 'facebook', link:   'https://www.facebook.com/'}
 # - {icon: 'instagram', link:  'https://instagram.com/paululele'}
-- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
+- {icon: 'envelope', link:   'hbhandwaldar@gmail.com'}
 # - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
@@ -32,4 +32,4 @@ social:
 
 # related_posts: 'You may also enjoy...'
 
-post_date_prefix: 'AUG 5th, 2022'
+# post_date_prefix: 'AUG 5th, 2022'
