@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Anna(EN-US)"
+author: "Anna"
+categories: documentation
+tags: [documentation,sample]
+image: anna.jpg
+---
+
+<!-- Main -->
+<div id="main" class="alt">
+  <p align="center">
+    <video width="90%" height="60%" controls>
+      <source type="video/mp4" src="assets/videos/anna-en-us.mp4">
+    </video>
+  </p>
+</div>
