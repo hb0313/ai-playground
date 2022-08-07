@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "AI-Playground"
-description:	       ""
+description:	       "All videos were created with Sythesia.io and are solely for personal use."
 author:              "Harshad Bhandwaldar"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
