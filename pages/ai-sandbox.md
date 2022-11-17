@@ -1,7 +1,6 @@
 ---
-layout: category
+layout: page
 title: Ai-Sandbox
-category: documentation
 permalink: /ai-sandbox
 ---
 
