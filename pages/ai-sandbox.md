@@ -1,8 +1,8 @@
 ---
 layout: category
-title: Interesting Facts
+title: Ai-Sandbox
 category: facts
-permalink: /facts
+permalink: /ai-sandbox
 ---
 
 
