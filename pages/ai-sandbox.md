@@ -5,4 +5,4 @@ permalink: /ai-sandbox
 ---
 
 
-## Object Detection (Image) - https://huggingface.co/spaces/hashb/object-detection-yolo
+## Sandbox page moved to Google sites - https://sites.google.com/view/pihome1/playground
