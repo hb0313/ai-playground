@@ -5,4 +5,4 @@ permalink: /ai-sandbox
 ---
 
 
-## Sandbox page moved to (Google sites)[https://sites.google.com/view/pihome1/playground]
+## Sandbox page moved to [Google sites](https://sites.google.com/view/pihome1/playground)
