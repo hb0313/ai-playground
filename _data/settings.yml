@@ -4,20 +4,20 @@ disqus:
   disqus_shortname: 'AI-Playground'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'G-686LF3LFDK'
 
 menu:
-- {name: 'Sandbox',  url: 'ai-sandbox'}
+# - {name: 'Sandbox',  url: 'ai-sandbox'}
 # - {name: 'Learning Resources', url: 'resources'}
 # - {name: 'Sample Posts',       url: 'sample-posts'}
 # - {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+# - {name: 'About',              url: 'about'}
+# - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/'}
-- {icon: 'facebook', link:   'https://www.facebook.com/'}
+# - {icon: 'twitter', link:    'https://twitter.com/'}
+# - {icon: 'facebook', link:   'https://www.facebook.com/'}
 # - {icon: 'instagram', link:  'https://instagram.com/paululele'}
 - {icon: 'envelope', link:   'hbhandwaldar@gmail.com'}
 # - {icon: 'rss-square', link: 'feed.xml'}
